@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on void</title>
-    <link>https://amrit-44404.github.io/tags/</link>
+    <link>https://nyx-void.github.io/tags/</link>
     <description>Recent content in Tags on void</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://amrit-44404.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nyx-void.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>https://amrit-44404.github.io/tags/posts/</link>
+      <link>https://nyx-void.github.io/tags/posts/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://amrit-44404.github.io/tags/posts/</guid>
+      <guid>https://nyx-void.github.io/tags/posts/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>https://amrit-44404.github.io/tags/about/</link>
+      <link>https://nyx-void.github.io/tags/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://amrit-44404.github.io/tags/about/</guid>
+      <guid>https://nyx-void.github.io/tags/about/</guid>
       <description></description>
     </item>
   </channel>
