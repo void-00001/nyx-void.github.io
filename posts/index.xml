@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on void</title>
+    <link>https://amrit-44404.github.io/posts/</link>
+    <description>Recent content in Posts on void</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://amrit-44404.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Student&#39;s Tale: Navigating College and Code</title>
+      <link>https://amrit-44404.github.io/posts/second-post/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://amrit-44404.github.io/posts/second-post/</guid>
+      <description>and the occasional crush. As a BCA student at Butwal Kalika Campus,&#xA;I&amp;rsquo;m diving headfirst into the world of computer science. C++ is my weapon of choice, and I&amp;rsquo;m constantly sharpening my skills to tackle the challenges ahead.&#xA;Follow along as I juggle assignments, projects, and maybe even a little romance.&#xA;#BCAStudent #C&#xA;&amp;ldquo;Embrace the challenges ahead as opportunities for growth. Like sharpening a blade, each obstacle in the world of computer science hones our skills and fortifies our resolve.</description>
+    </item>
+    <item>
+      <title>Embracing the Linux Lifestyle</title>
+      <link>https://amrit-44404.github.io/posts/first-post/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://amrit-44404.github.io/posts/first-post/</guid>
+      <description>Say hello to efficiency and customization with Linux! As an avid Arch Linux user, I&amp;rsquo;ve found the perfect balance of performance and flexibility.&#xA;From tweaking system configurations to exploring the depths of the command line, every day is a new adventure.&#xA;Join me on the journey to open-source greatness!&#xA;#ArchLinux #OpenSource #Efficiency&#xA;Download GNU Arch linux and get ready for clean UI experience.(BTW)&#xA;Certainly! For more information, please visit the following URL $&amp;gt; https://archlinux.</description>
+    </item>
+    <item>
+      <title>Software Development</title>
+      <link>https://amrit-44404.github.io/posts/fourth_post/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://amrit-44404.github.io/posts/fourth_post/</guid>
+      <description>Simplicity is core to my software development, because it leads to; fewer bugs, better performance, lower memory footprint, better maintainability, higher scalability, longer software lifetime, prompt delivery; …all of which lead to a better quality finished product.</description>
+    </item>
+    <item>
+      <title>The Heart&#39;s Melody: Musings on Crushes</title>
+      <link>https://amrit-44404.github.io/posts/third-post/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://amrit-44404.github.io/posts/third-post/</guid>
+      <description>The journey of a crush is a captivating one. It&amp;rsquo;s a journey filled with wonder and uncertainty, where every interaction becomes a treasure to cherish.&#xA;So next time you find yourself lost in a sea of crimson, embrace the moment with a wink and a smile. After all, blushing is simply your heart&amp;rsquo;s way of saying,&#xA;&amp;ldquo;Live a life that&amp;rsquo;s both chill and meaningful - find moments of serenity amidst the chaos, and purpose in every step you take.</description>
+    </item>
+  </channel>
+</rss>
